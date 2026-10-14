@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.png" alt="Mouctar Daffe — GitHub Banner" width="100%" />
+</p>
 # Hi, I'm Mouctar Daffe
 
 **IT Student | Networking • Systems Administration • Cybersecurity**
