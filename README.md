@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.png" alt="NodX — GitHub Banner" width="100%" />
+</p>
 # Hi, I'm NodX
 
 **IT Student | Networking • Systems Administration • Cybersecurity**
