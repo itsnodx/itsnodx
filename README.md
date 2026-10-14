@@ -1,4 +1,4 @@
-# Hi, I'm NodX(itsnodx)
+# Hi, I'm NodX
 
 **IT Student | Networking • Systems Administration • Cybersecurity**
 
