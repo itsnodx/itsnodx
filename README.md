@@ -1,4 +1,4 @@
-# Hi, I'm Mouctar Daffe(mdaffe17)
+# Hi, I'm Mouctar Daffe
 
 **IT Student | Networking • Systems Administration • Cybersecurity**
 
