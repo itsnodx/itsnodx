@@ -1,10 +1,10 @@
+![Mouctar Daffe — GitHub Banner](./banner.png)
+
 <p align="center">
-  <img src="./banner.png" alt="Mouctar Daffe — GitHub Banner" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=850&height=55&lines=IT+Student;Home+Lab+Builder;Networking+%26+Systems+Administration;Learning+Cybersecurity;Building+%E2%80%A2+Learning+%E2%80%A2+Documenting" alt="Animated introduction" />
 </p>
 
-## Hi, I'm Mouctar Daffe
-
-**IT Student | Networking • Systems Administration • Cybersecurity**
+## About Me
 
 I'm an IT student with a strong interest in computer networking, systems administration, and cybersecurity.
 
@@ -23,19 +23,19 @@ I'm progressively building a personal home lab to experiment with networking, sy
 
 This environment allows me to apply theoretical knowledge, troubleshoot technical problems, and document what I learn.
 
-##  My Learning & Projects
+## My Learning & Projects
 
-**MDAFFE17-Lab**
+###  MDAFFE17-Lab
 
 My personal technical laboratory for hands-on experiments, network configurations, infrastructure projects, and cybersecurity practice.
 
-**Learning Journey**
+###  Learning Journey
 
 A structured collection of my technical notes, exercises, configurations, and learning progress across different IT domains.
 
 As these projects evolve, I'll be sharing my progress and practical work here on GitHub.
 
-## My Goals
+##   My Goals
 
 - Build solid networking and systems administration skills.
 - Prepare for the Cisco CCNA certification.
@@ -44,7 +44,7 @@ As these projects evolve, I'll be sharing my progress and practical work here on
 - Progress toward cybersecurity and cloud technologies.
 - Maintain a well-documented technical portfolio.
 
-## My Approach
+##   My Approach
 
 **Learn → Practice → Understand → Document → Improve**
 
