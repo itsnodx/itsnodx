@@ -1,55 +1,36 @@
-![Mouctar Daffe — GitHub Banner](./banner.png)
+# Hey, I'm NodX.
 
-## About me
+**Networking / Systems / Cybersecurity**
 
-I'm a computer science student at UQAC in Saguenay, Quebec (cybersecurity concentration). I'm finishing the Google IT Support Professional Certificate and preparing for the Cisco CCNA.
+I explore technology through hands-on experiments, practical projects and technical documentation. I'm currently focused on networking, Linux administration and defensive security.
 
-I learn best with my hands on real equipment, so I built a home lab with Cisco switches, a mini PC and a Dell laptop. This GitHub is where I document what I build, what breaks, and how I fix it.
+This space is where I document what I build, test and learn — including what goes wrong and how I troubleshoot it.
 
-I'm looking for an IT support, help desk or junior network/infrastructure role or internship.
-[LinkedIn](https://linkedin.com/in/mouctar-daffe) · French (fluent) · English (improving)
+## Current projects
 
-## Home lab
+### [Home Lab](https://github.com/Mdaffe17/MDAFFE17-Lab)
 
-| Device | Role |
-|---|---|
-| Cisco Catalyst 3750-X | Layer 3 switch, inter-VLAN routing |
-| Cisco Catalyst 2960-X | Layer 2 access switch |
-| TP-Link TL-SG1016DE | Managed switch |
-| Beelink SER9 Pro (Ryzen 7, 32 GB) | Virtualization host (Proxmox VE) |
-| Dell laptop | Physical Ubuntu Server |
-| MacBook Pro M4 | Admin workstation |
-| GNS3 | Simulation for CCNA labs |
+An evolving environment built around Cisco switches, a managed TP-Link switch, Ubuntu Server and physical computers. The focus is network configuration, systems administration and troubleshooting. Planned components are marked as such in the project documentation.
 
-Addressing follows an enterprise-style plan: `10.10.0.0/16` per site, with the third octet matching the VLAN ID (10 servers, 20 HR, 30 IT, 40 security lab, 50 users, 60 VoIP, 70 Wi-Fi, 80 guest, 90 DMZ, 99 management).
+### [Learning Journey](https://github.com/Mdaffe17/learning-journey)
 
-A real problem I had to solve: my Ubuntu server had no Internet access (no Wi-Fi card, no cable to the router yet). I kept it updated by routing `apt` through a reverse SSH SOCKS tunnel from another machine.
+Notes and hands-on exercises in networking, Linux, Python and cybersecurity.
 
-## Lab progress
+### [SOC Project](https://github.com/Mdaffe17/soc-projet)
 
-| Lab | Status |
-|---|---|
-| Enterprise VLAN addressing plan | Done |
-| Ubuntu Server: static IP, SSH administration, updates through a reverse SSH tunnel | Done |
-| GNS3 troubleshooting labs (addressing, VLANs, connectivity) | Ongoing |
-| Proxmox VE on the Beelink | In progress |
-| Active Directory: users, groups, GPO, domain join | Next |
-| pfSense firewall to isolate the lab | Planned |
-| FortiGate VM | Planned |
+Experiments in security monitoring and intrusion detection. Documentation is being organized.
 
-## Repositories
+## Technical focus
 
-- [MDAFFE17-Lab](https://github.com/Mdaffe17/MDAFFE17-Lab): one folder per lab with the goal, topology, configs, tests and problems solved.
-- [Learning-Journey](https://github.com/Mdaffe17/Learning-Journey): notes and exercises in networking (CCNA), Linux and Python.
+- **Networking:** TCP/IP, subnetting, VLANs, routing and troubleshooting
+- **Systems:** Linux, SSH, server administration and virtualization
+- **Security:** Network segmentation, monitoring and defensive security
+- **Programming:** Python and practical automation
 
-## Skills
+Currently preparing for the Cisco CCNA and continuing to build practical experience with physical and virtual infrastructure.
 
-**Networking:** TCP/IP, IPv4 subnetting, VLANs, inter-VLAN routing, DNS, DHCP, NAT, Cisco IOS
-**Systems:** Windows 10/11, Linux (Ubuntu Server), SSH, users and permissions, Proxmox VE
-**Security:** least privilege, network segmentation, firewall principles
-**Programming:** Python, C++ (basics), Git
+## Beyond GitHub
 
-## Certifications
+NodX is also a space for animated technology explainers, motion design and documenting real experiments.
 
-- Google IT Support Professional Certificate (finishing)
-- Cisco CCNA 200-301 (preparing)
+**Learn it. Build it. Understand it. Share it.**
