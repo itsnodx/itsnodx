@@ -55,11 +55,3 @@ Work and experiments related to security monitoring and intrusion detection, inc
 | Advanced security (longer term) | CEH, OSCP |
 
 *These are future goals, not certifications already earned. The roadmap may evolve.*
-
-## Beyond GitHub
-
-NodX also explores technology through motion design, visual storytelling and hands-on projects. The goal is to make complex ideas clearer while building and learning in public.
-
-**Explore. Build. Understand.**
-
-`NodX / @itsnodx`
