@@ -8,15 +8,15 @@ This space is where I document what I build, test and learn — including what g
 
 ## Current projects
 
-### [Home Lab](https://github.com/Mdaffe17/MDAFFE17-Lab)
+### [Home Lab](https://github.com/itsnodx/NodX-Lab)
 
 An evolving environment built around Cisco switches, a managed TP-Link switch, Ubuntu Server and physical computers. The focus is network configuration, systems administration and troubleshooting. Planned components are marked as such in the project documentation.
 
-### [Learning Journey](https://github.com/Mdaffe17/learning-journey)
+### [Learning Journey](https://github.com/itsnodx/learning-journey)
 
 Notes and hands-on exercises in networking, Linux, Python and cybersecurity.
 
-### [SOC Project](https://github.com/Mdaffe17/soc-projet)
+### [SOC Project](https://github.com/itsnodx/soc-projet)
 
 Experiments in security monitoring and intrusion detection. Documentation is being organized.
 
