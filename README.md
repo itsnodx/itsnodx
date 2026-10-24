@@ -55,3 +55,5 @@ Work and experiments related to security monitoring and intrusion detection, inc
 | Advanced security (longer term) | CEH, OSCP |
 
 *These are future goals, not certifications already earned. The roadmap may evolve.*
+
+`NodX / @itsnodx`
