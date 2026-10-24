@@ -1,36 +1,65 @@
 # Hey, I'm NodX.
 
-**Networking / Systems / Cybersecurity**
+**Networks · Systems · Cybersecurity · Technology**
 
-I explore technology through hands-on experiments, practical projects and technical documentation. I'm currently focused on networking, Linux administration and defensive security.
+Exploring the systems behind modern technology through practical projects, experiments and technical documentation.
 
-This space is where I document what I build, test and learn — including what goes wrong and how I troubleshoot it.
+NodX is my technical workspace. Here I share infrastructure projects, hands-on lab work and software experiments, while documenting what I learn along the way.
 
-## Current projects
+---
+
+## Selected Work
 
 ### [NodX-Lab](https://github.com/itsnodx/NodX-Lab)
+**Infrastructure · Networking · Security**
 
-An evolving environment built around Cisco switches, a managed TP-Link switch, Ubuntu Server and physical computers. The focus is network configuration, systems administration and troubleshooting. Planned components are marked as such in the project documentation.
+An evolving home lab using physical networking equipment, Linux systems and practical infrastructure experiments. Virtualization and additional security environments are part of its development roadmap.
+
+*Ongoing project.*
 
 ### [learning-journey](https://github.com/itsnodx/learning-journey)
+**Documentation · Practice · Technical Growth**
 
-Notes and hands-on exercises in networking, Linux, Python and cybersecurity.
+A collection of notes, exercises and technical experiments across networking, systems, Python and cybersecurity.
+
+*Continuously evolving.*
 
 ### [SOC Project](https://github.com/itsnodx/soc-projet)
+**Monitoring · Detection · Defensive Security**
 
-Experiments in security monitoring and intrusion detection. Documentation is being organized.
+Work and experiments related to security monitoring and intrusion detection, including Wazuh and Suricata.
 
-## Technical focus
+*Documentation in progress.*
 
-- **Networking:** TCP/IP, subnetting, VLANs, routing and troubleshooting
-- **Systems:** Linux, SSH, server administration and virtualization
-- **Security:** Network segmentation, monitoring and defensive security
-- **Programming:** Python and practical automation
+---
 
-Currently preparing for the Cisco CCNA and continuing to build practical experience with physical and virtual infrastructure.
+## Technical Ecosystem
+
+| Area | Technologies and interests |
+|---|---|
+| Networking | Cisco IOS, TCP/IP, VLANs, routing, GNS3 |
+| Systems | Linux, SSH, Windows Server fundamentals |
+| Virtualization | Virtual machines, Docker; Proxmox VE on the roadmap |
+| Security | Wazuh, Suricata, network segmentation and monitoring |
+| Development | Python, C++, Git |
+
+*This is a mix of hands-on experience and technologies I am actively exploring, not a list of mastered tools.*
+
+## Certification Roadmap
+
+| Focus | Certifications I'm working toward or considering |
+|---|---|
+| Networking | CompTIA Network+, Cisco CCNA |
+| Security operations | CompTIA Security+, Cisco CyberOps |
+| Fortinet | Fortinet training and certification path |
+| Advanced security (longer term) | CEH, OSCP |
+
+*These are future goals, not certifications already earned. The roadmap may evolve.*
 
 ## Beyond GitHub
 
-NodX is also a space for animated technology explainers, motion design and documenting real experiments.
+NodX also explores technology through motion design, visual storytelling and hands-on projects. The goal is to make complex ideas clearer while building and learning in public.
 
-**Learn it. Build it. Understand it. Share it.**
+**Explore. Build. Understand.**
+
+`NodX / @itsnodx`
