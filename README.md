@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/nodx-banner.png" alt="NodX — Networks, Systems, Cybersecurity, Technology" width="100%">
+</p>
+
 # Hey, I'm NodX.
 
 **Networks · Systems · Cybersecurity · Technology**
